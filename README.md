@@ -3,8 +3,8 @@
 # How to run?
 Fork or download zip of the project and run from main.py file
 
-## Output
-
+## Quiz Output
+![output-img](https://github.com/Ayush-gupta-dev/pyQuizTask/blob/main/Screenshot%20from%202023-09-22%2017-19-58.png)
 
 ## Task
 
